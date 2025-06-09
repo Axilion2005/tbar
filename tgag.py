@@ -1,0 +1,1 @@
+print("Huh? Isn't that cool?")
